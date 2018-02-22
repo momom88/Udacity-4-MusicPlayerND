@@ -29,8 +29,8 @@ public class MusicPlayer extends AppCompatActivity implements View.OnClickListen
         final Bundle extras = getIntent().getExtras();
 
         // Getting the Views from xml
-        songTextView.setText(extras.getString("authorName"));
-        authorTextView.setText(extras.getString("nameSong"));
+        songTextView.setText(extras.getString("nameSong"));
+        authorTextView.setText(extras.getString("authorName"));
         Image.setImageResource(extras.getInt("image"));
 
         // Find the ImageView in the MusicPlayer.xml layout with the ID image.
