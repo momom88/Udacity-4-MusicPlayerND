@@ -2,4 +2,5 @@
 <resources>
     <dimen name="list_item_height">88dp</dimen>
     <dimen name="list_text_height">44dp</dimen>
+    <dimen name="buttonpadding">25dp</dimen>
 </resources>

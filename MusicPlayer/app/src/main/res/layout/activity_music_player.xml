@@ -47,6 +47,7 @@
         android:id="@+id/stop"
         style="@style/Imageview"
         android:layout_marginEnd="68dp"
+        android:padding="@dimen/buttonpadding"
         android:src="@drawable/ic_stop" />
 
     <ImageView
@@ -54,6 +55,7 @@
         style="@style/Imageview"
         android:layout_alignParentStart="true"
         android:layout_marginStart="70dp"
+        android:padding="@dimen/buttonpadding"
         android:src="@drawable/ic_play_arrow" />
 
     <ImageView
@@ -61,6 +63,7 @@
         style="@style/Imageview"
         android:layout_alignParentStart="true"
         android:layout_marginStart="140dp"
+        android:padding="@dimen/buttonpadding"
         android:src="@drawable/ic_pause" />
 
     <ImageView
@@ -69,5 +72,6 @@
         android:layout_alignParentRight="true"
         android:layout_marginBottom="25dp"
         android:layout_marginEnd="20dp"
+        android:padding="@dimen/buttonpadding"
         android:src="@drawable/ic_arrow_back" />
 </RelativeLayout>
