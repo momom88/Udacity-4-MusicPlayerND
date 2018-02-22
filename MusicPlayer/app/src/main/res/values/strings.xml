@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MusicPlayer</string>
+    <string name="name">name</string>
+    <string name="name1">name1</string>
+    <string name="song1">song1</string>
+    <string name="author1">singer1</string>
+    <string name="song2">song2</string>
+    <string name="authoe2">singer2</string>
+    <string name="song3">song3</string>
+    <string name="author3">singer3</string>
+    <string name="song4">song4</string>
+    <string name="author4">singer4</string>
+    <string name="song5">song5</string>
+    <string name="author5">singer5</string>
+    <string name="song6">song6</string>
+    <string name="author6">singer6</string>
+    <string name="song7">song7</string>
+    <string name="author7">singer7</string>
+    <string name="song8">song8</string>
+    <string name="author8">singer8</string>
+    <string name="song9">song9</string>
+    <string name="author9">singer9</string>
+</resources>
